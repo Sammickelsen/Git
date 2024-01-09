@@ -8,7 +8,7 @@ This is Hello World in C#.  This project is to show how to print Hello World ont
 
 # Development Environment
 
-* Python 3.12.1
+* C#
 * Visual Studio Code
 * Git/Github
 
