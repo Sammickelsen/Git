@@ -1,6 +1,6 @@
 # Overview
 
-This is Hello World in Python.  This project is to show how to print Hello World onto the console using multiple different languages.
+This is Hello World in C#.  This project is to show how to print Hello World onto the console using multiple different languages.
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
